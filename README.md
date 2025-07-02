@@ -1,4 +1,4 @@
-# Filhub - Rede Social Acadêmica | React Native + Laravel
+# Filhub - Rede Social Acadêmica
 
 Filhub é uma rede social desenvolvida como projeto acadêmico, voltada para a comunidade universitária de uma instituição de ensino. A plataforma permite que estudantes compartilhem conteúdos, publiquem ideias, e interajam com colegas por meio de posts, comentários e curtidas. O backend foi construído com Laravel e o frontend com React Native.
 
